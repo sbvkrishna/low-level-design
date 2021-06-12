@@ -1,5 +1,4 @@
 # Low-level Design
-Resources to learn Low-Level System Design and prepare for low-level design (LLD/Machine Coding) Interviews.
 
 ## Resources
 
