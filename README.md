@@ -2,37 +2,39 @@
 
 ## Resources
 
-[work@tech Machine Coding section](https://workat.tech/machine-coding)
+[work@tech - Machine Coding section](https://workat.tech/machine-coding)
+
+[RefactoringGuru - Design Patterns](https://refactoring.guru/design-patterns)
+
+[[O’Reilly] Head First Design Patterns Book](https://www.oreilly.com/library/view/head-first-design/0596007124/)
+
+[[Educative.io] Grokking the Low Level Design Interview](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles)
 
 [[Youtube] Christopher - Design patterns in OOPS](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
-[[Youtube] The Code Mate - LLD Series](https://www.youtube.com/playlist?list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd)
+[[Youtube] The Code Mate - Low Level Design Series](https://www.youtube.com/playlist?list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd)
+
+[[Youtube] sudoCODE - Low Level Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k)
 
 [[Youtube] Derek Banas - OOPS Playlist](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
 
-[RefactoringGuru Website](https://refactoring.guru)
+[[Youtube] Udit Agarwal - Low Level System Design](https://www.youtube.com/playlist?list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW)
 
-[Head first Design patterns - Book summary (Principles and patterns)](https://designpatterns.devm.tech>)
+[[Youtube] Packt - Design patterns and SOLID Principles with Java](https://www.youtube.com/playlist?list=PLTgRMOcmRb3MVU6oeXRp0naSuk9kcnnfC)
 
-[[Youtube] Udit Agarwal LLD playlist](https://www.youtube.com/playlist?list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW)
+[[Youtube] Steven Chin - Google's Clean code talks](https://www.youtube.com/playlist?list=PLx5t1p9LqYUe_3LrWrrJN5agu5Jcd-3bG)
 
-[[Youtube] Design patterns and SOLID](https://www.youtube.com/playlist?list=PLTgRMOcmRb3MVU6oeXRp0naSuk9kcnnfC)
+[[Youtube] Success in Tech - Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
 
-[[Youtube] Google's Clean code talks](https://www.youtube.com/playlist?list=PLx5t1p9LqYUe_3LrWrrJN5agu5Jcd-3bG)
+[[Youtube] Thriver Ashish - Low level System design](https://www.youtube.com/playlist?list=PLx2RZGha5vYlGw7PxsYlMrNC3-f2ihsBM)
 
-[Educative's Grokking Object-oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
+[[Youtube] Soumyajit Bhattacharyay - Low Level Design](https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
 
-[[Youtube] Success in Tech](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
+[[Youtube] SDE Skills - Object Oriented Design](https://www.youtube.com/playlist?list=PLBtMh4xfa9FGzQI8QpUgWI1J9wDdB6RFo)
 
-[[Youtube] Low level System design](https://www.youtube.com/playlist?list=PLx2RZGha5vYlGw7PxsYlMrNC3-f2ihsBM)
+[[roadmap.sh] Design Patterns for Humans in PHP](https://roadmap.sh/guides/design-patterns-for-humans)
 
-[[Youtube] Low Level Design by Amazonian](https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
-
-[[Youtube] SDE Skills - Object oriented design](https://www.youtube.com/playlist?list=PLBtMh4xfa9FGzQI8QpUgWI1J9wDdB6RFo)
-
-[Design Patterns for Humans [PHP] [Github]](https://roadmap.sh/guides/design-patterns-for-humans)
-
-[Design patterns implemented in Java [Github]](https://java-design-patterns.com/)
+[Java Design Patterns Website](https://java-design-patterns.com/)
 
 [[Medium] How to approach Object Oriented Design Questions step by step](https://medium.com/@nrkapri/how-to-approach-object-oriented-design-questions-step-by-step-67ed6a5a30e5)
 
@@ -42,10 +44,12 @@
 
 [[Hashnode] Blog series on Code smells  - by Maxi Contieri](https://hashnode.com/series/code-smells-ckh0jrbfm07pu20s1bc0yaae1)
 
-[[Github] Design patterns - Code examples](https://github.com/braindevoiler/design-patterns)
+[[Github] Design patterns - Code examples in Java](https://github.com/braindevoiler/design-patterns)
+
+[[patterns.dev] Design patterns in JavaScript](https://www.patterns.dev/posts/#design-patterns)
 
 ## Credits
-* This repo is just a collection of Low-level Design resources available on the Internet and these resources are created by their respective owners.
+* This repo is just a collection of Low-level Design resources available on the Internet and these resources are copyright to their respective owners.
 
 ## License
 - [MIT](LICENSE)
