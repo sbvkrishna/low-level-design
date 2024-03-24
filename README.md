@@ -2,6 +2,8 @@
 
 ## Resources
 
+[LLDcoding - Machine Coding blogs - 55+ lld solutions](https://lldcoding.com)
+
 [work@tech - Machine Coding section](https://workat.tech/machine-coding)
 
 [RefactoringGuru - Design Patterns](https://refactoring.guru/design-patterns)
